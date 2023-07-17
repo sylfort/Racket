@@ -1,3 +1,4 @@
+#lang racket
 
 ;Template: (define (replace-numbers lofw) (cond [(empty? lofw) ...] [else ... (first lofw) ... (replace-numbers (rest lofw)) ...]))
 
